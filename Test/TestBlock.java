@@ -4,6 +4,6 @@ import java.util.Arrays;
  */
 public class TestBlock {
     public static void main(String[] a) {
-        System.out.println(Arrays.toString(a));
+        System.out.println("Hello world");
     }
 }
